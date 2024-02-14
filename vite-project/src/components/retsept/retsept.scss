@@ -1,0 +1,53 @@
+.retsept {
+  width: 1240px;
+  display: flex;
+  margin-left: 40px;
+  h1 {
+    color: rgb(21, 20, 20);
+    font-size: 54px;
+    font-weight: 770;
+    line-height: 68px;
+    letter-spacing: 0%;
+    text-align: left;
+    margin-top: 90px;
+  }
+  p {
+    color: rgb(24, 29, 25);
+    font-size: 22px;
+    font-weight: 450;
+    line-height: 54px;
+    letter-spacing: 0%;
+    text-align: left;
+    margin-right: 50px;
+  }
+  button{
+
+  width: 200px;
+    padding: 10px;
+    border: none;
+    cursor: pointer;
+    color: rgb(255, 255, 255);
+    font-family: monospace;
+    font-size: 24px;
+    font-weight: 400;
+    line-height: 32px;
+    border-radius: 50px;
+    background: rgb(44, 149, 83);
+    margin-top: 50px;
+  }
+  
+  button:hover{
+    background-color: rgb(83, 87, 83);
+      transition: all ease 0.6s;
+  }
+  img{
+    max-width: 1240px;
+  }
+  .qovun{
+    margin-top: 150px;
+  }
+  .left2{
+    margin: 50px ;
+  }
+}
+
